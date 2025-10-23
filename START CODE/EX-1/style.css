@@ -1,0 +1,33 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+
+div{
+    background-color: white;
+    border-radius: 10px;
+    margin: 30px 100px;
+    padding: 20px;
+}
+
+
+button{
+    border-radius: 30px;
+    padding: 5px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+#b1{
+    color: white;
+    background-color: rgb(3, 87, 87);
+}
+#b2{
+    background-color: orange;
+}
+
+#b3{
+    color: white;
+    background-color:purple ;
+}

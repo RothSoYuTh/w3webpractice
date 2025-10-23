@@ -1,0 +1,19 @@
+/* TODO */
+body{
+    width: 100px;
+    height: 100vh;
+    margin: auto;
+    place-content: center;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid white;
+    background-color: pink;
+    color: white;
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgb(227, 117, 136);
+    border: 2px solid red;
+}
